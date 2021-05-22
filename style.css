@@ -132,7 +132,105 @@ nav ul {
 }
 
 .first-third {
-  width: 33.3%;
-  height: 100%;
+  width: 34%;
+  height: 250px;
   background-color: rgb(11, 5, 39);
+  margin-left: 0 auto;
+  position: relative;
+  top: 150px;
+  margin: 0px;
+}
+
+.second-third {
+  width: 33%;
+  height: 250px;
+  background-color: rgb(11, 5, 39, 0.966);
+  position: relative;
+  bottom: 100px;
+  left: 34%;
+  margin: 0px;
+}
+
+.third-third {
+  width: 33%;
+  height: 250px;
+  background-color: rgb(11, 5, 39);
+  position: relative;
+  bottom: 350px;
+  left: 67%;
+  margin: 0px;
+}
+
+.intro {
+  position: relative;
+  top: 125px;
+  left: 30%;
+  font-family: Noto Sans HK;
+  color: rgba(0, 0, 0, 0.486);
+  font-size: 200%;
+  width: 100%;
+}
+
+.second-intro {
+  font-family: Noto Sans HK;
+  position: relative;
+  top: 125px;
+  left: 33%;
+  color: rgba(0, 0, 0, 0.486);
+  font-size: 150%;
+  width: 100%;
+}
+
+.creation-link {
+  font-family: Noto Sans HK;
+  color: rgb(126, 126, 126);
+  font-size: 250%;
+  position: relative;
+  top: 5%;
+  left: 7%;
+}
+
+.creations-text {
+  color: rgb(126, 126, 126);
+  position: relative;
+  font-family: Noto Sans HK;
+  font-size: 150%;
+  text-align: center;
+  top: 10%;
+}
+
+.about-link {
+  font-family: Noto Sans HK;
+  color: rgb(126, 126, 126);
+  font-size: 250%;
+  position: relative;
+  top: 5%;
+  left: 27%;
+}
+
+.about-text {
+  color: rgb(126, 126, 126);
+  position: relative;
+  font-family: Noto Sans HK;
+  font-size: 150%;
+  text-align: center;
+  top: 10%;
+}
+
+.contact-link {
+  font-family: Noto Sans HK;
+  color: rgb(126, 126, 126);
+  font-size: 250%;
+  position: relative;
+  top: 5%;
+  left: 24%;
+}
+
+.contact-text {
+  color: rgb(126, 126, 126);
+  position: relative;
+  font-family: Noto Sans HK;
+  font-size: 150%;
+  text-align: center;
+  top: 10%;
 }
