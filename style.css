@@ -170,6 +170,50 @@ nav ul {
   font-family: Noto Sans HK;
 }
 
+.spin-text {
+  position: relative;
+  width: 30%;
+  left: 7%;
+  bottom: 7em;
+  line-height: 150%;
+  font-size: 200%;
+  color: rgb(126, 126, 126);
+  font-family: Noto Sans HK;
+}
+
+.other-spin-text {
+  position: relative;
+  width: 30%;
+  left: 65%;
+  bottom: 9em;
+  line-height: 150%;
+  font-size: 200%;
+  color: rgb(126, 126, 126);
+  font-family: Noto Sans HK;
+}
+
+.portal-text {
+  position: relative;
+  width: 30%;
+  left: 7%;
+  bottom: 8em;
+  line-height: 150%;
+  font-size: 200%;
+  color: rgb(126, 126, 126);
+  font-family: Noto Sans HK;
+}
+
+.werner-text {
+  position: relative;
+  width: 30%;
+  left: 65%;
+  bottom: 9em;
+  line-height: 150%;
+  font-size: 200%;
+  color: rgb(126, 126, 126);
+  font-family: Noto Sans HK;
+}
+
 .lock-text {
   font-family: Noto Sans HK;
   width: 400px;
@@ -181,32 +225,43 @@ nav ul {
   left: 5%;
 }
 
+.glitch-text {
+  position: relative;
+  width: 30%;
+  left: 65%;
+  bottom: 8em;
+  line-height: 150%;
+  font-size: 200%;
+  color: rgb(126, 126, 126);
+  font-family: Noto Sans HK;
+}
+
 .first-third {
   width: 34%;
-  height: 250px;
+  height: 18.5em;
   background-color: rgb(11, 5, 39);
   margin-left: 0 auto;
   position: relative;
-  top: 150px;
+  top: 10.38em;
   margin: 0px;
 }
 
 .second-third {
   width: 33%;
-  height: 250px;
+  height: 18.5em;
   background-color: rgb(11, 5, 39, 0.966);
   position: relative;
-  bottom: 100px;
+  bottom: 8.12em;
   left: 34%;
   margin: 0px;
 }
 
 .third-third {
   width: 33%;
-  height: 250px;
+  height: 18.5em;
   background-color: rgb(11, 5, 39);
   position: relative;
-  bottom: 350px;
+  bottom: 26.63em;
   left: 67%;
   margin: 0px;
 }
@@ -218,7 +273,7 @@ nav ul {
   font-family: Noto Sans HK;
   color: rgba(0, 0, 0, 0.486);
   font-size: 200%;
-  width: 100%;
+  width: 70%;
   margin-top: 0;
 }
 
@@ -229,7 +284,7 @@ nav ul {
   left: 33%;
   color: rgba(0, 0, 0, 0.486);
   font-size: 150%;
-  width: 100%;
+  width: 60%;
 }
 
 .intro-creations {
