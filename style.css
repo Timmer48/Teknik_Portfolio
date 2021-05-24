@@ -6,7 +6,7 @@ Styles body {
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 1px rgba(51, 51, 51, 0.486);
   width: 100%;
-  height: 18%;
+  height: 2em;
   display: block;
   position: absolute;
   z-index: 1;
@@ -16,7 +16,7 @@ Styles body {
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 1px rgba(51, 51, 51, 0.486);
   width: 100%;
-  height: 18%;
+  height: 7em;
   display: block;
   position: absolute;
   z-index: 1;
@@ -110,8 +110,8 @@ nav ul {
 }
 
 .arena {
-  width: 600px;
-  height: 350px;
+  width: 35em;
+  height: 21em;
   position: relative;
   top: 4em;
   left: 7%;
@@ -120,42 +120,44 @@ nav ul {
 
 .spin {
   position: relative;
-  top: 30px;
+  top: 2em;
   left: 57%;
 }
 
 .Other-spin {
   position: relative;
-  top: 30px;
+  top: 2em;
   left: 7%;
 }
 
 .portal {
   position: relative;
+  height: 20em;
   width: 45%;
-  top: 50px;
+  top: 2em;
   left: 52%;
 }
 
 .werner {
   position: relative;
-  top: 40px;
+  top: 2em;
   left: 5%;
 }
 
 .lock {
-  width: 600px;
-  height: 350px;
+  width: 45%;
+  height: 20em;
   border: 3px solid black;
   position: relative;
-  top: 40px;
+  top: 4em;
   left: 50%;
 }
 
 .glitch {
   position: relative;
+  height: 20em;
   width: 40%;
-  top: 50px;
+  top: 3em;
   left: 7%;
 }
 
@@ -216,12 +218,12 @@ nav ul {
 
 .lock-text {
   font-family: Noto Sans HK;
-  width: 400px;
-  font-size: 30px;
+  width: 35%;
+  font-size: 200%;
   color: rgb(126, 126, 126);
   line-height: 40px;
   position: relative;
-  bottom: 300px;
+  bottom: 8em;
   left: 5%;
 }
 
@@ -289,7 +291,7 @@ nav ul {
 
 .intro-creations {
   position: relative;
-  top: 125px;
+  top: 4em;
   left: 12%;
   font-family: Noto Sans HK;
   color: rgba(0, 0, 0, 0.486);
@@ -301,7 +303,7 @@ nav ul {
 .second-intro-creations {
   font-family: Noto Sans HK;
   position: relative;
-  top: 125px;
+  top: 4em;
   left: 43%;
   color: rgba(0, 0, 0, 0.486);
   font-size: 200%;
