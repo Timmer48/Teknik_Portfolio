@@ -6,7 +6,7 @@ Styles body {
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 1px rgba(51, 51, 51, 0.486);
   width: 100%;
-  height: 2em;
+  height: 7em;
   display: block;
   position: absolute;
   z-index: 1;
@@ -396,4 +396,110 @@ nav ul {
   position: relative;
   top: 65px;
   right: 18%;
+}
+
+.body-contact {
+  background-color: rgba(11, 5, 39, 0.966);
+}
+
+.contact-block {
+  background-color: rgb(11, 5, 39);
+  width: 40%;
+  height: 25em;
+  position: relative;
+  left: 30%;
+  top: 9em;
+}
+
+.contact-choice {
+  margin-top: 0px;
+  font-family: Noto Sans HK;
+  color: rgb(126, 126, 126);
+  text-align: center;
+}
+
+.mail-link {
+  font-size: 200%;
+  position: relative;
+  top: 4em;
+  left: 22.5%;
+  color: rgb(126, 126, 126);
+  text-decoration: none;
+}
+
+.email-link {
+  font-size: 200%;
+  position: relative;
+  top: 5em;
+  left: 11%;
+  color: rgb(126, 126, 126);
+  font-family: Noto Sans HK;
+}
+
+.div-on-div2 {
+  background-color: transparent;
+  width: 17%;
+  height: 5em;
+  border: 3px solid black;
+  position: relative;
+  left: 16.5%;
+  top: 5.3em;
+  margin: 0px;
+}
+
+.v-link {
+  font-size: 200%;
+  position: relative;
+  top: 4em;
+  left: 45%;
+  color: rgb(126, 126, 126);
+  text-decoration: none;
+  z-index: 2;
+  font-family: Noto Sans HK;
+}
+
+.klass-link {
+  font-size: 200%;
+  position: relative;
+  top: 5em;
+  left: 36%;
+  color: rgb(126, 126, 126);
+  z-index: 2;
+  font-family: Noto Sans HK;
+}
+
+.div-on-div {
+  background-color: transparent;
+  width: 17%;
+  height: 5em;
+  border: 3px solid black;
+  position: relative;
+  left: 61%;
+  top: 5.3em;
+  display: inline;
+}
+.about-body {
+  background-color: rgb(11, 5, 39, 0.966);
+}
+
+.about-block {
+  background-color: rgba(11, 5, 39);
+  width: 60%;
+  height: 15em;
+  position: relative;
+  left: 20%;
+  top: 10em;
+}
+
+.about-me {
+  font-size: 150%;
+  position: relative;
+  top: 0.5em;
+  left: 15%;
+  width: 70%;
+  color: rgb(126, 126, 126);
+  z-index: 2;
+  font-family: Noto Sans HK;
+  text-align: center;
+  margin-top: 0px;
 }
