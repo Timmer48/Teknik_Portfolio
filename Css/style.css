@@ -246,6 +246,9 @@ nav ul {
   position: relative;
   top: 10.38em;
   margin: 0px;
+  z-index: 4;
+  border: solid black;
+  border-left: 0px;
 }
 
 .second-third {
@@ -253,30 +256,33 @@ nav ul {
   height: 18.5em;
   background-color: rgb(11, 5, 39, 0.966);
   position: relative;
-  bottom: 8.12em;
+  bottom: 8.37em;
   left: 34%;
   margin: 0px;
+  z-index: 4;
+  border: solid black;
 }
 
 .third-third {
-  width: 33%;
+  width: 32.7%;
   height: 18.5em;
   background-color: rgb(11, 5, 39);
   position: relative;
-  bottom: 26.63em;
+  bottom: 27.12em;
   left: 67%;
   margin: 0px;
+  z-index: 4;
+  border: solid black;
+  border-right: 0px;
 }
 
 .intro {
   position: relative;
   top: 4em;
-
   font-family: Noto Sans HK;
-  color: rgba(0, 0, 0, 0.486);
+  color: rgb(126, 126, 126);
   font-size: 200%;
   text-align: center;
-
   margin-top: 0;
 }
 
@@ -284,7 +290,7 @@ nav ul {
   font-family: Noto Sans HK;
   position: relative;
   top: 6em;
-  color: rgba(0, 0, 0, 0.486);
+  color: rgb(126, 126, 126);
   font-size: 150%;
   text-align: center;
 }
@@ -500,4 +506,9 @@ nav ul {
   font-family: Noto Sans HK;
   text-align: center;
   margin-top: 0px;
+}
+
+.index-body {
+  height: 0.5em;
+  background-color: rgb(11, 5, 39);
 }
