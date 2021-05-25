@@ -270,33 +270,32 @@ nav ul {
 
 .intro {
   position: relative;
-  top: 125px;
-  left: 30%;
+  top: 4em;
+
   font-family: Noto Sans HK;
   color: rgba(0, 0, 0, 0.486);
   font-size: 200%;
-  width: 70%;
+  text-align: center;
+
   margin-top: 0;
 }
 
 .second-intro {
   font-family: Noto Sans HK;
   position: relative;
-  top: 125px;
-  left: 33%;
+  top: 6em;
   color: rgba(0, 0, 0, 0.486);
   font-size: 150%;
-  width: 60%;
+  text-align: center;
 }
 
 .intro-creations {
   position: relative;
   top: 4em;
-  left: 12%;
   font-family: Noto Sans HK;
   color: rgba(0, 0, 0, 0.486);
   font-size: 200%;
-  width: 80%;
+  text-align: center;
   margin-top: 0;
 }
 
@@ -304,10 +303,9 @@ nav ul {
   font-family: Noto Sans HK;
   position: relative;
   top: 4em;
-  left: 43%;
+  text-align: center;
   color: rgba(0, 0, 0, 0.486);
   font-size: 200%;
-  width: 20%;
 }
 .creation-link {
   font-family: Noto Sans HK;
